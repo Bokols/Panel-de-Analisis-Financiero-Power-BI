@@ -8,7 +8,7 @@ Como parte de mi portafolio de ciencia de datos, desarrollé un panel financiero
 
 El panel fue construido en Power BI Desktop, con énfasis en un diseño UX/UI moderno, interactividad y narración de datos. Permite a los tomadores de decisiones obtener rápidamente insights accionables sobre la salud financiera y el desempeño operativo.
 
-🖋️ **Ver Capturas del Panel (PDF)**
+[🖋️ **Ver Capturas del Panel (PDF)**](https://github.com/Bokols/Panel-de-Analisis-Financiero-Power-BI/blob/main/Panel%20de%20An%C3%A1lisis%20Financiero%20%E2%80%93%20Empresa%20de%20Gesti%C3%B3n%20de%20Residuos%20(Conjunto%20de%20Datos%20Sint%C3%A9tico).pdf)
 
 🔧 **Lo que Hice**
 
